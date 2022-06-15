@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Anurag Yadav.
-- 👀 I’m interested in Machine Learning, specifically in Natural Language Processing.
-- 🌱 I’m currently learning Python and its libraries related to Machine Learning.
-- 📫 How to reach me: Just drop me a mail at anuragtypecasted [at] gmail [dot] com.
+This branch is dedicated to some practice projects I've done in Python. Self-explanatory, really.
 
 <!---
 BabaNogdev/BabaNogdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
